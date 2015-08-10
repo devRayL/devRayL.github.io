@@ -1,0 +1,11 @@
+ul {
+    text-align: center;
+}
+* {
+  font-family: Helvetica;
+}
+img {
+    border-radius: 25px;
+    width: 200px;
+    height: 300px;
+}

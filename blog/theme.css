@@ -1,0 +1,21 @@
+* {
+  background-color: #D5DFFC;
+}
+
+img {
+    margin-right: 50%;
+    margin-left: 42%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.about_me {
+    text-align: center;
+}
+
+li {
+  display: inline;
+  padding:20px;
+}
