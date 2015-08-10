@@ -19,7 +19,7 @@
 <br>
 </div>
 <ul>
-  <li><a href="http://devrayl.github.io/blog/t1-git-blog.html">Blog</a></li>
+  <li><a href="http://devrayl.github.io/index_blog.html">Blog</a></li>
   <li>Portfolio</li>
   <li><a href="https://github.com/devRayL">Github</a></li>
   <li>Social Media</li>
